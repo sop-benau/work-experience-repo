@@ -187,6 +187,8 @@ Security applies at every stage.
 
 ## 🧠 Career Paths
 
+For roadmaps to become a particular role, visit <a href="https://roadmap.sh/roadmaps">https://roadmap.sh/roadmaps</a> for ideas
+
 ### Build
 - Developer
 - Application Specialist
